@@ -8,19 +8,15 @@ You can train Deep ConvNets from a pre-trained model on your datasets with limit
 ![Framework](https://csgaobb.github.io/Projects/DLDL-v2_files/DLDL-v2-Age.png)
 
 # Online Demo
-<center><br>
-<iframe width="390" height="320"  src="https://www.youtube.com/embed/ZtnygeUyYAs" frameborder="0" allowfullscreen=""></iframe>
-<iframe width="390" height="320"  src="https://www.youtube.com/embed/H845rGgLgag" frameborder="0" allowfullscreen=""></iframe>
-<!--<img src="./DLDL-v2_files/FeiFeiAi.gif" width="45%" hspace= 0">
-<img src="./DLDL-v2_files/BinBinWebCam.gif" width="45%" hspace= 0">-->
-</a></center>
 
-<!--[![Framework](https://www.youtube.com/embed/ZtnygeUyYAs/0.jpg)](https://www.youtube.com/embed/ZtnygeUyYAs)
+[![Framework](https://www.youtube.com/embed/ZtnygeUyYAs/0.jpg)](https://www.youtube.com/embed/ZtnygeUyYAs)
 
 [![Framework](https://www.youtube.com/embed/ZtnygeUyYAs/0.jpg)](https://www.youtube.com/embed/H845rGgLgag)
--->
-![image](./imgaes/ThinAgeNet-ChaLearn16-Oscar2017.gif)
-![image](./images/ThinAgeNet-ChaLearn16-eschool.gif)
+
+
+
+<img src="./images/ThinAgeNet-ChaLearn16-Oscar2017.gif" height="240"/>
+<img src="./images/ThinAgeNet-ChaLearn16-eschool.gif" height="240"/>
 
 
 # Installation
