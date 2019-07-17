@@ -19,8 +19,8 @@ You can train Deep ConvNets from a pre-trained model on your datasets with limit
 
 [![Framework](https://www.youtube.com/embed/ZtnygeUyYAs/0.jpg)](https://www.youtube.com/embed/H845rGgLgag)
 -->
-![image](https://csgaobb.github.io/Projects/DLDL-v2_files/ThinAgeNet-ChaLearn16-Oscar2017.gif)
-![image](https://csgaobb.github.io/Projects/DLDL-v2_files/ThinAgeNet-ChaLearn16-eschool.gif)
+![image](./imgaes/ThinAgeNet-ChaLearn16-Oscar2017.gif)
+![image](./images/ThinAgeNet-ChaLearn16-eschool.gif)
 
 
 # Installation
