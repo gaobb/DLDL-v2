@@ -5,7 +5,7 @@ This repository is a Torch implementation of ["Age Estimation Using Expectation 
 You can train Deep ConvNets from a pre-trained model on your datasets with limited resources. This repo is created by [Bin-Bin Gao](http://lamda.nju.edu.cn/gaobb).
 
 ![Framework](http://lamda.nju.edu.cn/gaobb/Projects/DLDL-v2_files/DLDL-v2-Frame.png)
-
+![Framework](https://csgaobb.github.io/Projects/DLDL-v2_files/DLDL-v2-Age.png)
 
 # Online Demo
 <center><br>
@@ -19,9 +19,8 @@ You can train Deep ConvNets from a pre-trained model on your datasets with limit
 
 [![Framework](https://www.youtube.com/embed/ZtnygeUyYAs/0.jpg)](https://www.youtube.com/embed/H845rGgLgag)
 -->
-![Framework](https://csgaobb.github.io/Projects/DLDL-v2_files/DLDL-v2-Age.png)
-![Framework](https://csgaobb.github.io/Projects/DLDL-v2_files/ThinAgeNet-ChaLearn16-Oscar2017.gif)
-![Framework](https://csgaobb.github.io/Projects/DLDL-v2_files/ThinAgeNet-ChaLearn16-eschool.gif)
+![image](https://csgaobb.github.io/Projects/DLDL-v2_files/ThinAgeNet-ChaLearn16-Oscar2017.gif)
+![image](https://csgaobb.github.io/Projects/DLDL-v2_files/ThinAgeNet-ChaLearn16-eschool.gif)
 
 
 # Installation
