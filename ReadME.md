@@ -8,15 +8,17 @@ You can train Deep ConvNets from a pre-trained model on your datasets with limit
 ![Framework](https://csgaobb.github.io/Projects/DLDL-v2_files/DLDL-v2-Age.png)
 
 # Online Demo
+<video id="video" controls="" preload="none" poster="https://www.youtube.com/embed/ZtnygeUyYAs/0.jpg">
+<source id="mp4" src="https://www.youtube.com/embed/ZtnygeUyYAs" type="video/mp4">
+</video>
 
-[![Framework](https://www.youtube.com/embed/ZtnygeUyYAs/0.jpg)](https://www.youtube.com/embed/ZtnygeUyYAs)
+<video id="video" controls="" preload="none" poster="https://www.youtube.com/embed/ZtnygeUyYAs/0.jpg">
+<source id="mp4" src="https://www.youtube.com/embed/H845rGgLgag" type="video/mp4">
+</video>
 
-[![Framework](https://www.youtube.com/embed/ZtnygeUyYAs/0.jpg)](https://www.youtube.com/embed/H845rGgLgag)
 
-
-
-<img src="./images/ThinAgeNet-ChaLearn16-Oscar2017.gif" height="240"/>
-<img src="./images/ThinAgeNet-ChaLearn16-eschool.gif" height="240"/>
+<img src="./images/ThinAgeNet-ChaLearn16-Oscar2017.gif" width="240"/>
+<img src="./images/ThinAgeNet-ChaLearn16-eschool.gif" width="240"/>
 
 
 # Installation
