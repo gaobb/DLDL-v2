@@ -8,13 +8,13 @@ You can train Deep ConvNets from a pre-trained model on your datasets with limit
 ![Framework](https://csgaobb.github.io/Projects/DLDL-v2_files/DLDL-v2-Age.png)
 
 # Download
-ThinAgeNet models [Baidu Drive link](https://pan.baidu.com/s/1XFUZzEMhdyU68ATYFU0-IA)
+ThinAgeNet models: [Baidu Drive link](https://pan.baidu.com/s/1XFUZzEMhdyU68ATYFU0-IA)
 
-TinyAgeNet models [Baidu Drive link](https://pan.baidu.com/s/1gBmM9FTOmbVGd8B3xeuAwA)
+TinyAgeNet models: [Baidu Drive link](https://pan.baidu.com/s/1gBmM9FTOmbVGd8B3xeuAwA)
 
-Align&Cropped ChaLearn Face Imgaes [Baidu Drive link](https://pan.baidu.com/s/1_HZ6P1DV9kVT4NlW3x2zFA)
+Align&Cropped ChaLearn Face Imgaes: [Baidu Drive link](https://pan.baidu.com/s/1_HZ6P1DV9kVT4NlW3x2zFA)
 
-Train&Test list [Baidu Drive link](https://pan.baidu.com/s/1RResT1cSTFhfrKO7-K3OeA)
+Train&Test list: [Baidu Drive link](https://pan.baidu.com/s/1RResT1cSTFhfrKO7-K3OeA)
 
 
 # Image Demo
