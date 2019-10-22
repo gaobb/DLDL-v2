@@ -8,15 +8,15 @@ You can train Deep ConvNets from a pre-trained model on your datasets with limit
 ![Framework](https://csgaobb.github.io/Projects/DLDL-v2_files/DLDL-v2-Age.png)
 
 # Download
-[MS-Celeb-1M Models:](https://pan.baidu.com/s/1rv14DCYzZCXu4_5nx7WIdA&shfl=shareset) 提取码: jrjq
+[MS-Celeb-1M Models:](https://pan.baidu.com/s/1rv14DCYzZCXu4_5nx7WIdA&shfl=shareset) (jrjq)
 
-ThinAgeNet models: [Baidu Drive link](https://pan.baidu.com/s/1XFUZzEMhdyU68ATYFU0-IA)
+[ThinAgeNet models:](https://pan.baidu.com/s/1XFUZzEMhdyU68ATYFU0-IA)
 
-TinyAgeNet models: [Baidu Drive link](https://pan.baidu.com/s/1gBmM9FTOmbVGd8B3xeuAwA)
+[TinyAgeNet models:](https://pan.baidu.com/s/1gBmM9FTOmbVGd8B3xeuAwA)
 
-Align&Cropped ChaLearn Face Imgaes: [Baidu Drive link](https://pan.baidu.com/s/1_HZ6P1DV9kVT4NlW3x2zFA)
+[Align&Cropped ChaLearn Face Imgaes:](https://pan.baidu.com/s/1_HZ6P1DV9kVT4NlW3x2zFA)
 
-Train&Test list: [Baidu Drive link](https://pan.baidu.com/s/1RResT1cSTFhfrKO7-K3OeA)
+[Train&Test list:](https://pan.baidu.com/s/1RResT1cSTFhfrKO7-K3OeA)
 
 
 # Image Demo
