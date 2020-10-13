@@ -5,20 +5,19 @@ This repository is a Torch implementation of ["Age Estimation Using Expectation 
 You can train Deep ConvNets from a pre-trained model on your datasets with limited resources. This repo is created by [Bin-Bin Gao](http://lamda.nju.edu.cn/gaobb).	You can train Deep ConvNets from a pre-trained model on your datasets with limited resources. This repo is created by [Bin-Bin Gao](http://lamda.nju.edu.cn/gaobb).
 
 
-![Framework](https://csgaobb.github.io/Projects/DLDL-v2_files/DLDL-v2-Frame.png)	![Framework](http://lamda.nju.edu.cn/gaobb/Projects/DLDL-v2_files/DLDL-v2-Frame.png)
+![Framework](https://csgaobb.github.io/Projects/DLDL-v2_files/DLDL-v2-Frame.png)
+![Framework](http://lamda.nju.edu.cn/gaobb/Projects/DLDL-v2_files/DLDL-v2-Frame.png)
 ![Framework](https://csgaobb.github.io/Projects/DLDL-v2_files/DLDL-v2-Age.png)	
 
 
 # Download	
 [MS-Celeb-1M Face Models](https://pan.baidu.com/s/1rv14DCYzZCXu4_5nx7WIdA&shfl=shareset) (jrjq)	
-
-
 [ThinAgeNet models](https://pan.baidu.com/s/1XFUZzEMhdyU68ATYFU0-IA)	# Online Demo
 [![Framework](https://www.img.youtube.com/vi/H845rGgLgag/0.jpg)](https://www.youtube.com/embed/ZtnygeUyYAs)
 
 
-[TinyAgeNet models](https://pan.baidu.com/s/1gBmM9FTOmbVGd8B3xeuAwA)	[![Framework](https://www.img.youtube.com/vi/H845rGgLgag/0.jpg)](https://www.youtube.com/embed/H845rGgLgag)
-
+[TinyAgeNet models](https://pan.baidu.com/s/1gBmM9FTOmbVGd8B3xeuAwA)	
+[![Framework](https://www.img.youtube.com/vi/H845rGgLgag/0.jpg)](https://www.youtube.com/embed/H845rGgLgag)
 
 [Align&Cropped ChaLearn Face Imgaes](https://pan.baidu.com/s/1_HZ6P1DV9kVT4NlW3x2zFA)	
 
