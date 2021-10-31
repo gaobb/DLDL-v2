@@ -5,6 +5,13 @@ This repository is a Torch implementation of ["Age Estimation Using Expectation 
 You can train Deep ConvNets from a pre-trained model on your datasets with limited resources. This repo is created by [Bin-Bin Gao](http://lamda.nju.edu.cn/gaobb).	You can train Deep ConvNets from a pre-trained model on your datasets with limited resources. This repo is created by [Bin-Bin Gao](http://lamda.nju.edu.cn/gaobb).
 
 
+	
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/learning-expectation-of-label-distribution/age-estimation-on-morph-album2)](https://paperswithcode.com/sota/age-estimation-on-morph-album2?p=learning-expectation-of-label-distribution)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/learning-expectation-of-label-distribution/age-estimation-on-chalearn-2015)](https://paperswithcode.com/sota/age-estimation-on-chalearn-2015?p=learning-expectation-of-label-distribution)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/learning-expectation-of-label-distribution/age-estimation-on-chalearn-2016)](https://paperswithcode.com/sota/age-estimation-on-chalearn-2016?p=learning-expectation-of-label-distribution)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/learning-expectation-of-label-distribution/attractiveness-estimation-on-scut-fbp)](https://paperswithcode.com/sota/attractiveness-estimation-on-scut-fbp?p=learning-expectation-of-label-distribution)
+
+
 ![Framework](https://csgaobb.github.io/Projects/DLDL-v2_files/DLDL-v2-Frame.png)
 <!--![Framework](http://lamda.nju.edu.cn/gaobb/Projects/DLDL-v2_files/DLDL-v2-Frame.png)-->
 ![Framework](https://csgaobb.github.io/Projects/DLDL-v2_files/DLDL-v2-Age.png)	
